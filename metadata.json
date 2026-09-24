@@ -1,0 +1,7 @@
+{
+  "name": "Космическая игра: 2D Sandbox Adventure",
+  "description": "Космическая 2D sandbox survival игра с процедурными мирами, добычей ресурсов, строительством, крафтом, NPC, межпланетными путешествиями и эпическими боссами.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
